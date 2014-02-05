@@ -1,0 +1,13 @@
+
+public class Property {
+
+	final static int COMPLETED = 0;
+	final static int ON_MARKET = 1;
+	final static int UNDER_OFFER = 2;
+	final static int CONTRACTED = 3;
+	public Property()
+	{
+		
+	}
+	
+}

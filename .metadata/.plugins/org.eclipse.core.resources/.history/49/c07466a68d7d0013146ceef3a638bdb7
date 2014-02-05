@@ -1,0 +1,4 @@
+
+public class OnMarketState implements PState {
+
+}
